@@ -1,0 +1,17 @@
+{
+  "name": "upload",
+  "version": "1.0.0",
+  "description": "upload file with MULTER  library ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "saif",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5",
+    "multer": "^1.4.2"
+  }
+}
